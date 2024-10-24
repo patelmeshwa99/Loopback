@@ -1,0 +1,2 @@
+# Loopback
+Loopback, angular, mongodb
